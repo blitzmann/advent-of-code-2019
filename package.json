@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "advent-of-code": "^4.0.3",
+    "advent-of-code": "^4.0.4",
     "array-flatten": "^3.0.0",
     "immutable-tuple": "^0.4.10",
     "js-combinatorics": "^0.5.4"
