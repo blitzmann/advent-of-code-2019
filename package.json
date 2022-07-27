@@ -12,6 +12,6 @@
     "advent-of-code": "^4.0.3",
     "array-flatten": "^3.0.0",
     "immutable-tuple": "^0.4.10",
-    "js-combinatorics": "^0.5.4"
+    "js-combinatorics": "^0.6.1"
   }
 }
